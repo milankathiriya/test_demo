@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422102336335",
+    "project_id": "chirag-firebase-app",
+    "storage_bucket": "chirag-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422102336335:android:de92c0ccc83e33c6b3bb3a",
+        "android_client_info": {
+          "package_name": "com.rnw.chirag_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422102336335-dmc2d6o06t7mmh5e2nr50h38m71ovu8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSZdwE2QuCrunhpSFPWGsDlbenEtKz_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422102336335-dmc2d6o06t7mmh5e2nr50h38m71ovu8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
