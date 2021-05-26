@@ -20,6 +20,8 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   FirebaseApp defaultApp = await Firebase.initializeApp();
 
+  print("changes");
+
   runApp(
     MaterialApp(
       routes: {
