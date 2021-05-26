@@ -20,7 +20,25 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   FirebaseApp defaultApp = await Firebase.initializeApp();
 
-  print("changes");
+  /*
+    1. Initialize your git inside your directory.
+        git init
+
+    2. Perform add operation on specific files/directories.
+        git add filename
+          or
+        git add .
+
+    3. Perform staging/indexing
+        git commit -m "commit name/change name"
+
+    4. Publish/Push
+        syntax: git push -u origin branch_name
+        example: git push -u origin master
+
+    5. Clonning/Download
+        git clone remote_adrress
+  */
 
   runApp(
     MaterialApp(
